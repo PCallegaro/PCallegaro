@@ -1,13 +1,15 @@
-### Hi there 👋, my name is Pedro
-42 Lisbon student
+# Hi there 👋, my name is Pedro
+Gaúcho from Porto Alegre 🇧🇷 based in Lisbon 🇵🇹
 
-ULHT Civil Engineering student
+42 Lisbon student  🖥️
 
-Civil Locksmith
+ULHT Civil Engineering student 👷
 
-Language and Tools: <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="PJV-LINUX" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+Civil Locksmith 🧱 
+
+## Language and Tools:
+
+<img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <img align="center" alt="PJV-LINUX" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 
 
