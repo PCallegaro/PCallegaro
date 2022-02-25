@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Pedro
 Gaúcho from Porto Alegre 🇧🇷 based in Lisbon 🇵🇹
 
-42 Lisbon student  🖥️
+42 Lisbon student  🖥️ 
 
 ULHT Civil Engineering student 👷
 
