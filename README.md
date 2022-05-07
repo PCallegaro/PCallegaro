@@ -5,7 +5,7 @@ Gaúcho from Porto Alegre 🇧🇷 based in Lisbon 🇵🇹
 
 ULHT Civil Engineering student 👷
 
-Civil Locksmith 🧱 
+Customer Service at Vodafone 📲
 
 ## Language and Tools:
 
